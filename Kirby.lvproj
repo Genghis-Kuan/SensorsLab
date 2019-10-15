@@ -166,6 +166,7 @@
 				<Item Name="DAQmx Read (Raw 1D U16).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/read.llb/DAQmx Read (Raw 1D U16).vi"/>
 				<Item Name="DAQmx Read (Raw 1D U32).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/read.llb/DAQmx Read (Raw 1D U32).vi"/>
 				<Item Name="DAQmx Read.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/read.llb/DAQmx Read.vi"/>
+				<Item Name="DAQmx Start Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Start Task.vi"/>
 				<Item Name="DAQmx Stop Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Stop Task.vi"/>
 				<Item Name="DAQmx Timing (Burst Export Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Burst Export Clock).vi"/>
 				<Item Name="DAQmx Timing (Burst Import Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Burst Import Clock).vi"/>
@@ -286,7 +287,6 @@
 			<Item Name="QNET_Analog_Input_Config.vi" Type="VI" URL="../QNET Library/QNET_Drivers.llb/QNET_Analog_Input_Config.vi"/>
 			<Item Name="QNET_MECHKIT_AI_Config.vi" Type="VI" URL="../QNET Library/QNET_Drivers.llb/QNET_MECHKIT_AI_Config.vi"/>
 			<Item Name="QNET_MECHKIT_AI_Read.vi" Type="VI" URL="../QNET Library/QNET_Drivers.llb/QNET_MECHKIT_AI_Read.vi"/>
-			<Item Name="qnet_mechkit_decoder.vi" Type="VI" URL="../QNET Library/QNET_MECHKIT_Functions/qnet_mechkit_decoder.vi"/>
 			<Item Name="QNET_MECHKIT_DO_Config.vi" Type="VI" URL="../QNET Library/QNET_Drivers.llb/QNET_MECHKIT_DO_Config.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
